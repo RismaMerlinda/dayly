@@ -14,4 +14,8 @@ DAYLY adalah aplikasi berbasis web yang dirancang khusus untuk latihan dan evalu
 - **Frontend**: Blade Template Engine
 - **CSS**: Tailwind CSS
 - **JavaScript**: Vanilla JS (UI interaction)
+<<<<<<< HEAD
 - **Date & Time Library**: Carbon
+=======
+- **Date & Time Library**: Carbon
+>>>>>>> 67e6d03 (upload)
