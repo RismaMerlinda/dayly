@@ -1,6 +1,7 @@
 # Dayly - Date Utility Web App
 
-DAYLY adalah aplikasi berbasis web yang dirancang khusus untuk latihan dan evaluasi kemampuan pemrograman dasar, dengan fokus utama pada pengolahan tanggal, perhitungan waktu, dan penerapan logika dasar. Sistem ini dikembangkan untuk membantu pengguna dalam memahami konsep-konsep fundamental pemrograman melalui studi kasus nyata berbasis tanggal dan kalender. Dengan DAYLY, pengguna dapat melatih kemampuan mereka dalam menangani berbagai permasalahan terkait tanggal, mulai dari menampilkan tanggal hari ini, menghitung umur, menentukan hari kerja atau akhir pekan, hingga memvalidasi tanggal dan menghitung selisih waktu antar tanggal. 
+Dayly adalah aplikasi berbasis web menggunakan framework Laravel yang dirancang untuk membantu pengguna dalam pengolahan data tanggal secara sistematis dan akurat.
+Aplikasi ini menyediakan fitur penentuan hari kerja atau hari libur, perhitungan umur, validasi tanggal, serta perhitungan jumlah hari kerja dalam suatu rentang tanggal.
 
 ## Fitur Utama
 - **Menampilkan Tanggal Hari Ini**: Lihat tanggal sekarang secara realtime.
